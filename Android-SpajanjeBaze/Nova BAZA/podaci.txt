@@ -1,0 +1,5 @@
+Host: sql4.freesqldatabase.com
+Database name: sql481378
+Database user: sql481378
+Database password: lV3!kE4!
+Port number: 3306
